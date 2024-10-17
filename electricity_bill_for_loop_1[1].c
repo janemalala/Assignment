@@ -3,7 +3,7 @@
 
 int main() {
     int numberOfCustomers, customerID;
-    char customerName[50];
+    char customerName[10];
     float unitsConsumed, chargesPerUnit, totalBill, surcharge;
 
     // Prompt user for the number of customers
