@@ -7,7 +7,7 @@ Date:7th October 2024;
 
 int main() {
     int customerID;
-    char customerName[50];
+    char customerName[20];
     float unitsConsumed, chargesPerUnit, totalBill, surcharge;
     int continueInput; 
 
